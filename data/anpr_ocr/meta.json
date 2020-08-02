@@ -1,0 +1,20 @@
+{
+    "classes": [],
+    "tags": [
+        {
+            "name": "test",
+            "value_type": "none",
+            "color": "#9E1099"
+        },
+        {
+            "name": "val",
+            "value_type": "none",
+            "color": "#8EAB1C"
+        },
+        {
+            "name": "train",
+            "value_type": "none",
+            "color": "#D5DB66"
+        }
+    ]
+}
